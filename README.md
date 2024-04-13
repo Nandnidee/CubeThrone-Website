@@ -1,72 +1,27 @@
-# Getting Started with Create React App
+# [Game Developer Portfolio](https://cubethrone.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive portfolio website for a game developer, built using React. Showcase your game development skills, projects, and achievements with this responsive and multi-page portfolio.
 
-## Available Scripts
+![Portfolio Homepage](https://github.com/Nandnidee/CubeThrone-Website/assets/99739856/4f9a9fdc-72d2-4f0b-bc51-054d8e1bda5c)
 
-In the project directory, you can run:
+*Homepage of the Game Developer Portfolio*
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Multi-Page Structure**: Navigate through different pages such as Home, About, Portfolio, and Contact.
+- **Responsive Design**: Optimized for various screen sizes, ensuring a seamless user experience across devices.
+- **Project Showcase**: Display your game development projects, skills, and achievements.
+- **Contact Form**: An interactive contact form for visitors to get in touch with you.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Pages
 
-### `npm test`
+- **Home**: Introduction and overview of your skills and experience.
+- **Projects**: Detailed information about your background, interests, and passion for game development.
+- **Services**: Showcase of your game projects, including screenshots, descriptions, and links.
+- **Contact**: Contact form and social media links for visitors to reach out to you.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# CubeThrone-Website" 
-"# CubeThrone-Website" 
+- **Frontend**: React
+- **Styling**: CSS (or CSS-in-JS libraries like styled-components)
+- **Routing**: React Router
